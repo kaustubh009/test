@@ -1,0 +1,210 @@
+09:59:16.011 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Driver Initialized
+09:59:16.029 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Driver Initialized
+09:59:16.030 [TestNG-tests-3] DEBUG Framework.Kaustubh.HomePageTest - debug message
+09:59:16.030 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Info message
+09:59:16.030 [TestNG-tests-3] ERROR Framework.Kaustubh.HomePageTest - error message
+09:59:16.031 [TestNG-tests-3] FATAL Framework.Kaustubh.HomePageTest - fatal message
+09:59:24.082 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Web Site Launched
+09:59:24.083 [TestNG-tests-2] ERROR Framework.Kaustubh.featureTextTest - error message
+09:59:24.083 [TestNG-tests-2] FATAL Framework.Kaustubh.featureTextTest - fatal message
+09:59:24.083 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - info info info
+09:59:24.083 [TestNG-tests-2] ERROR Framework.Kaustubh.featureTextTest - Kaustubh
+09:59:24.434 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Text Retrieved
+09:59:24.435 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Printed Text
+09:59:26.216 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Web Site launched
+09:59:27.526 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Click on Sign in
+09:59:27.766 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - User Name entered
+09:59:27.889 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Password entered
+09:59:30.423 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Web Site launched
+09:59:30.845 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Click on Sign in
+09:59:30.969 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - User Name entered
+09:59:31.056 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Password entered
+10:05:30.531 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Driver Initialized
+10:05:30.536 [TestNG-tests-3] DEBUG Framework.Kaustubh.HomePageTest - debug message
+10:05:30.536 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Info message
+10:05:30.536 [TestNG-tests-3] ERROR Framework.Kaustubh.HomePageTest - error message
+10:05:30.536 [TestNG-tests-3] FATAL Framework.Kaustubh.HomePageTest - fatal message
+10:05:31.303 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Driver Initialized
+10:05:36.244 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Web Site launched
+10:05:37.551 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Click on Sign in
+10:05:37.698 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Web Site Launched
+10:05:37.698 [TestNG-tests-2] ERROR Framework.Kaustubh.featureTextTest - error message
+10:05:37.698 [TestNG-tests-2] FATAL Framework.Kaustubh.featureTextTest - fatal message
+10:05:37.698 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - info info info
+10:05:37.698 [TestNG-tests-2] ERROR Framework.Kaustubh.featureTextTest - Kaustubh
+10:05:37.802 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Text Retrieved
+10:05:37.802 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Printed Text
+10:05:37.845 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - User Name entered
+10:05:37.962 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Password entered
+10:05:41.365 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Web Site launched
+10:05:41.719 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Click on Sign in
+10:05:41.915 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - User Name entered
+10:05:42.009 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Password entered
+10:15:09.355 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Driver Initialized
+10:15:09.355 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Driver Initialized
+10:15:09.361 [TestNG-tests-3] DEBUG Framework.Kaustubh.HomePageTest - debug message
+10:15:09.362 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Info message
+10:15:09.362 [TestNG-tests-3] ERROR Framework.Kaustubh.HomePageTest - error message
+10:15:09.362 [TestNG-tests-3] FATAL Framework.Kaustubh.HomePageTest - fatal message
+10:15:15.402 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Web Site Launched
+10:15:15.402 [TestNG-tests-2] ERROR Framework.Kaustubh.featureTextTest - error message
+10:15:15.402 [TestNG-tests-2] FATAL Framework.Kaustubh.featureTextTest - fatal message
+10:15:15.402 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - info info info
+10:15:15.403 [TestNG-tests-2] ERROR Framework.Kaustubh.featureTextTest - Kaustubh
+10:15:15.553 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Web Site launched
+10:15:15.723 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Text Retrieved
+10:15:15.723 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Printed Text
+10:15:17.244 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Click on Sign in
+10:15:17.473 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - User Name entered
+10:15:17.590 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Password entered
+10:15:20.039 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Web Site launched
+10:15:20.452 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Click on Sign in
+10:15:20.594 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - User Name entered
+10:15:20.686 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Password entered
+10:16:52.935 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Driver Initialized
+10:16:53.411 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Driver Initialized
+10:16:53.411 [TestNG-tests-3] DEBUG Framework.Kaustubh.HomePageTest - debug message
+10:16:53.412 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Info message
+10:16:53.412 [TestNG-tests-3] ERROR Framework.Kaustubh.HomePageTest - error message
+10:16:53.412 [TestNG-tests-3] FATAL Framework.Kaustubh.HomePageTest - fatal message
+10:17:06.270 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Web Site launched
+10:17:10.685 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Web Site Launched
+10:17:10.686 [TestNG-tests-2] ERROR Framework.Kaustubh.featureTextTest - error message
+10:17:10.686 [TestNG-tests-2] FATAL Framework.Kaustubh.featureTextTest - fatal message
+10:17:10.686 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - info info info
+10:17:10.686 [TestNG-tests-2] ERROR Framework.Kaustubh.featureTextTest - Kaustubh
+10:17:10.756 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Click on Sign in
+10:17:10.799 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Text Retrieved
+10:17:10.799 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Printed Text
+10:17:10.866 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - User Name entered
+10:17:10.914 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Password entered
+10:17:13.440 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Web Site launched
+10:17:13.754 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Click on Sign in
+10:17:13.818 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - User Name entered
+10:17:13.853 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Password entered
+10:23:48.909 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Driver Initialized
+10:23:48.909 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Driver Initialized
+10:23:48.928 [TestNG-tests-3] DEBUG Framework.Kaustubh.HomePageTest - debug message
+10:23:48.929 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Info message
+10:23:48.929 [TestNG-tests-3] ERROR Framework.Kaustubh.HomePageTest - error message
+10:23:48.929 [TestNG-tests-3] FATAL Framework.Kaustubh.HomePageTest - fatal message
+10:23:55.148 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Web Site Launched
+10:23:55.149 [TestNG-tests-2] ERROR Framework.Kaustubh.featureTextTest - error message
+10:23:55.149 [TestNG-tests-2] FATAL Framework.Kaustubh.featureTextTest - fatal message
+10:23:55.149 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - info info info
+10:23:55.149 [TestNG-tests-2] ERROR Framework.Kaustubh.featureTextTest - Kaustubh
+10:23:55.222 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Text Retrieved
+10:23:55.222 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Printed Text
+10:23:55.619 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Web Site launched
+10:23:56.994 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Click on Sign in
+10:23:57.170 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - User Name entered
+10:23:57.277 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Password entered
+10:23:59.167 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Web Site launched
+10:23:59.401 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Click on Sign in
+10:23:59.496 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - User Name entered
+10:23:59.573 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Password entered
+10:28:33.398 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Driver Initialized
+10:28:33.787 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Driver Initialized
+10:28:33.788 [TestNG-tests-3] DEBUG Framework.Kaustubh.HomePageTest - debug message
+10:28:33.788 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Info message
+10:28:33.788 [TestNG-tests-3] ERROR Framework.Kaustubh.HomePageTest - error message
+10:28:33.788 [TestNG-tests-3] FATAL Framework.Kaustubh.HomePageTest - fatal message
+10:28:37.859 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Web Site Launched
+10:28:37.859 [TestNG-tests-2] ERROR Framework.Kaustubh.featureTextTest - error message
+10:28:37.859 [TestNG-tests-2] FATAL Framework.Kaustubh.featureTextTest - fatal message
+10:28:37.859 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - info info info
+10:28:37.859 [TestNG-tests-2] ERROR Framework.Kaustubh.featureTextTest - Kaustubh
+10:28:38.008 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Text Retrieved
+10:28:38.009 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Printed Text
+10:28:38.929 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Web Site launched
+10:28:39.792 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Click on Sign in
+10:28:39.946 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - User Name entered
+10:28:40.050 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Password entered
+10:28:42.161 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Web Site launched
+10:28:42.586 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Click on Sign in
+10:28:42.729 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - User Name entered
+10:28:42.834 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Password entered
+10:29:02.370 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Driver Initialized
+10:29:02.370 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Driver Initialized
+10:29:02.388 [TestNG-tests-3] DEBUG Framework.Kaustubh.HomePageTest - debug message
+10:29:02.390 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Info message
+10:29:02.390 [TestNG-tests-3] ERROR Framework.Kaustubh.HomePageTest - error message
+10:29:02.390 [TestNG-tests-3] FATAL Framework.Kaustubh.HomePageTest - fatal message
+10:29:07.097 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Web Site Launched
+10:29:07.097 [TestNG-tests-2] ERROR Framework.Kaustubh.featureTextTest - error message
+10:29:07.097 [TestNG-tests-2] FATAL Framework.Kaustubh.featureTextTest - fatal message
+10:29:07.097 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - info info info
+10:29:07.097 [TestNG-tests-2] ERROR Framework.Kaustubh.featureTextTest - Kaustubh
+10:29:07.107 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Web Site launched
+10:29:07.153 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Text Retrieved
+10:29:07.154 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Printed Text
+10:29:07.909 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Click on Sign in
+10:29:08.122 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - User Name entered
+10:29:08.222 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Password entered
+10:29:10.119 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Web Site launched
+10:29:10.334 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Click on Sign in
+10:29:10.430 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - User Name entered
+10:29:10.507 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Password entered
+10:32:44.701 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Driver Initialized
+10:32:44.701 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Driver Initialized
+10:32:44.719 [TestNG-tests-3] DEBUG Framework.Kaustubh.HomePageTest - debug message
+10:32:44.720 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Info message
+10:32:44.720 [TestNG-tests-3] ERROR Framework.Kaustubh.HomePageTest - error message
+10:32:44.720 [TestNG-tests-3] FATAL Framework.Kaustubh.HomePageTest - fatal message
+10:32:50.396 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Web Site launched
+10:32:51.287 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Click on Sign in
+10:32:51.624 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Web Site Launched
+10:32:51.624 [TestNG-tests-2] ERROR Framework.Kaustubh.featureTextTest - error message
+10:32:51.624 [TestNG-tests-2] FATAL Framework.Kaustubh.featureTextTest - fatal message
+10:32:51.624 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - info info info
+10:32:51.624 [TestNG-tests-2] ERROR Framework.Kaustubh.featureTextTest - Kaustubh
+10:32:51.778 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - User Name entered
+10:32:51.803 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Text Retrieved
+10:32:51.803 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Printed Text
+10:32:51.925 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Password entered
+10:32:56.394 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Web Site launched
+10:32:56.777 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Click on Sign in
+10:32:56.961 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - User Name entered
+10:32:57.104 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Password entered
+15:55:56.940 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Driver Initialized
+15:55:56.964 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Driver Initialized
+15:55:56.964 [TestNG-tests-3] DEBUG Framework.Kaustubh.HomePageTest - debug message
+15:55:56.964 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Info message
+15:55:56.964 [TestNG-tests-3] ERROR Framework.Kaustubh.HomePageTest - error message
+15:55:56.964 [TestNG-tests-3] FATAL Framework.Kaustubh.HomePageTest - fatal message
+15:56:00.382 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Web Site Launched
+15:56:00.382 [TestNG-tests-2] ERROR Framework.Kaustubh.featureTextTest - error message
+15:56:00.382 [TestNG-tests-2] FATAL Framework.Kaustubh.featureTextTest - fatal message
+15:56:00.382 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - info info info
+15:56:00.383 [TestNG-tests-2] ERROR Framework.Kaustubh.featureTextTest - Kaustubh
+15:56:00.438 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Text Retrieved
+15:56:00.438 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Printed Text
+15:56:00.674 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Web Site launched
+15:56:01.565 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Click on Sign in
+15:56:01.704 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - User Name entered
+15:56:01.792 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Password entered
+15:56:03.381 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Web Site launched
+15:56:03.579 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Click on Sign in
+15:56:03.676 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - User Name entered
+15:56:03.754 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Password entered
+16:24:07.402 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Driver Initialized
+16:24:07.402 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Driver Initialized
+16:24:07.408 [TestNG-tests-3] DEBUG Framework.Kaustubh.HomePageTest - debug message
+16:24:07.408 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Info message
+16:24:07.408 [TestNG-tests-3] ERROR Framework.Kaustubh.HomePageTest - error message
+16:24:07.409 [TestNG-tests-3] FATAL Framework.Kaustubh.HomePageTest - fatal message
+16:24:12.531 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Web Site Launched
+16:24:12.531 [TestNG-tests-2] ERROR Framework.Kaustubh.featureTextTest - error message
+16:24:12.532 [TestNG-tests-2] FATAL Framework.Kaustubh.featureTextTest - fatal message
+16:24:12.532 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - info info info
+16:24:12.532 [TestNG-tests-2] ERROR Framework.Kaustubh.featureTextTest - Kaustubh
+16:24:12.842 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Text Retrieved
+16:24:12.842 [TestNG-tests-2] INFO  Framework.Kaustubh.featureTextTest - Printed Text
+16:24:13.421 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Web Site launched
+16:24:14.488 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Click on Sign in
+16:24:14.926 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - User Name entered
+16:24:15.025 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Password entered
+16:24:18.064 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Web Site launched
+16:24:18.419 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Click on Sign in
+16:24:18.541 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - User Name entered
+16:24:18.634 [TestNG-tests-3] INFO  Framework.Kaustubh.HomePageTest - Password entered

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+<listeners>
+<listener class-name = "Framework.Kaustubh.Listeners"/>
+
+</listeners>
+  <test  name="Right navigation validation">
+    <classes>
+      <class name="Framework.Kaustubh.RightNavTest"/>
+          </classes>
+      </test>
+       
+       <test name ='Validating feature text'>
+        <classes>
+      <class name="Framework.Kaustubh.featureTextTest"/>
+       </classes>
+      </test>
+      
+      <test name ='Validating Homepage '>
+       <classes>
+      <class name="Framework.Kaustubh.HomePageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
